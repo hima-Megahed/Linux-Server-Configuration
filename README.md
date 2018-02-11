@@ -11,7 +11,9 @@ IP address: `18.195.124.124`
 
 SSH port: `2200`
 
-Item Catalog URL:  [http://18.195.124.124.xip.io](http://18.195.124.124.xip.io)
+Item Catalog URL:  **you can access the app via**    
+	[http://18.195.124.124.xip.io](http://18.195.124.124.xip.io) **OR** 
+[http://ec2-18-195-124-124.eu-central-1.compute.amazonaws.com/](http://ec2-18-195-124-124.eu-central-1.compute.amazonaws.com/)
 
 
 # Configuration changes
