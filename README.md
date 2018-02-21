@@ -1,6 +1,6 @@
 # Linux-Server-Configuration
 
-This project is the last part of the `Fullstack Web Development Nanodegree`, it ensures that you have solid foundation in configuring and securing kinux servers and have the experience to deploy applications using apache web server.
+This project is the last part of the `Fullstack Web Development Nanodegree`, it ensures that you have solid foundation in configuring and securing linux servers and have the experience to deploy applications using apache web server.
 
 
 ## About
