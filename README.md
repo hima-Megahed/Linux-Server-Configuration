@@ -161,11 +161,11 @@ sudo pip3 install flask-seasurf
 
 ```
 cd /var/www
-sudo mkdir item-project
-sudo chown -R grader:grader item-project
-cd project4
-sudo git clone https://github.com/hima-Megahed/Item-Catalog itemcatalogproject
-```
+sudo mkdir itemProject
+sudo chown -R grader:grader itemProject
+cd itemProject
+sudo git clone https://github.com/hima-Megahed/Item-Catalog itemCatalogProject
+``
 
 ## Configure the Catalog app
 -  Add a new empty module named `__init__.py`
