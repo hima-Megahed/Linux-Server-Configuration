@@ -75,8 +75,10 @@ If it's not UTC change it like this:
 - Then reload the configuration:
 `sudo service ssh force-reload`
 
-- and connect via:
+- Add new port to lightsail firewall:
+`Custom TCP 2200`
 
+- and connect via:
 `ssh grader@18.195.124.124 -p 2200 -i ~/.ssh/grader_rsa`
 
 
